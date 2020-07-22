@@ -6,7 +6,7 @@ Then I returned home to the southwest of France.
 
 You can 💬 ask me about anything you want [here](https://github.com/fduperier/fduperier/issues), I am always happy to help!
 
-## 🔭 Current works
+## 👨‍💻 Current works
 - I previously had a WordPress blog but I have no time anymore to maintain and make it live. So I am working on [fduperier/fduperier.github.io](https://github.com/fduperier/fduperier.github.io) to replace it.
 - I am also working on an exciting new project. I'll tell you about it when it launches!
 
@@ -15,7 +15,7 @@ You can 💬 ask me about anything you want [here](https://github.com/fduperier/
 - I am developing my skills on Docker and Kubernetes
 - I am also having a look to Kotlin and Vue.js
 
-## 👯 What I’m looking for
+## 🤝 What I’m looking for
 - I am looking for a new work-from-anywhere job.
 - I want to collaborate on projects that make sense.
 
