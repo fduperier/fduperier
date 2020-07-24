@@ -58,11 +58,11 @@ You can 💬 ask me about anything you want [here](https://github.com/fduperier/
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 
 ## 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-fredericduperier-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/fredericduperier/)](https://www.linkedin.com/in/fredericduperier/)
+[![Linkedin Badge](https://img.shields.io/badge/-fredericduperier-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://f-d.me/linkedin/)](https://f-d.me/linkedin)
 [![Gmail Badge](https://img.shields.io/badge/-fduperier@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fduperier@gmail.com)](mailto:fduperier@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-frederic.duperier-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/frederic.duperier/)](https://www.facebook.com/frederic.duperier/)
-[![Twitter Badge](https://img.shields.io/badge/-fduperier-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/fduperier/)](https://www.twitter.com/fduperier/)
-[![WhatsApp Badge](https://img.shields.io/badge/-+33612625049-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://wa.me/33612625049)](https://wa.me/33612625049)
+[![Facebook Badge](https://img.shields.io/badge/-frederic.duperier-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://f-d.me/fb)](https://f-d.me/fb)
+[![Twitter Badge](https://img.shields.io/badge/-fduperier-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://f-d.me/twitter)](https://f-d.me/twitter)
+[![WhatsApp Badge](https://img.shields.io/badge/-+33612625049-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://f-d.me/whatsapp)](https://f-d.me/whatsapp)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
