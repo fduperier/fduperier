@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I am Frédéric Dupérier, Solutions Architect & Web Entrepreneur.
+I am Frédéric Dupérier, Engineering Manager & Entrepreneur.
 After studying in Canada and starting to work in the French Riviera, I moved to Geneva, Switzerland where I lived for 10 years.
-Then I returned home to the southwest of France.
+Finally (?) I returned home to the southwest of France.
 
 You can 💬 ask me about anything you want [here](https://github.com/fduperier/fduperier/issues), I am always happy to help!
 
@@ -10,10 +10,11 @@ You can 💬 ask me about anything you want [here](https://github.com/fduperier/
 - I previously had a WordPress blog but I have no time anymore to maintain and make it live. So I am working on [fduperier/fduperier.github.io](https://github.com/fduperier/fduperier.github.io) to replace it.
 - I am also working on an exciting new project. I'll tell you about it when it launches!
 
+
 ## 🌱 Current learning
-- I am currently working to be certified on Cloud technologies: AWS, Azure, GCP
-- I am developing my skills on Docker and Kubernetes
-- I am also having a look to Kotlin and Vue.js
+- I am currently working on improving my leadership skills to manage more teams.
+- I am also working on Cloud certifications: AWS, Azure, GCP
+- 
 
 ## 🤝 What I’m looking for
 - I am looking for a new work-from-anywhere job.
